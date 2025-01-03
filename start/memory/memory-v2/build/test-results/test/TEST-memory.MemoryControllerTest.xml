@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="memory.MemoryControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-03T13:56:05" hostname="Haneolui-MacBookPro.local" time="0.083">
+  <properties/>
+  <testcase name="get()" classname="memory.MemoryControllerTest" time="0.083"/>
+  <system-out><![CDATA[memory = Memory{used=11419648max=536870912}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
